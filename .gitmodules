@@ -4,3 +4,6 @@
 [submodule "tailwind-dashboard"]
 	path = tailwind-dashboard
 	url = https://github.com/cruip/tailwind-dashboard-template.git
+[submodule "apipark"]
+	path = apipark
+	url = https://github.com/APIParkLab/APIPark.git
