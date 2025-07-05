@@ -1,3 +1,6 @@
 [submodule "tailwind-template"]
 	path = tailwind-template
 	url = https://github.com/cruip/tailwind-landing-page-template.git
+[submodule "tailwind-dashboard"]
+	path = tailwind-dashboard
+	url = https://github.com/cruip/tailwind-dashboard-template.git
